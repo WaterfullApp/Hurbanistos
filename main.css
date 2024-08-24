@@ -1,0 +1,1078 @@
+forall {
+
+    /* Mobile */
+
+    position: absolute;
+    width: 1344px;
+    height: 1177px;
+
+
+    /* Homepage (1) */
+
+    position: absolute;
+    width: 320px;
+    height: 568px;
+
+    background: #FFFFFF;
+
+
+    /* BOAT */
+
+    position: absolute;
+    width: 300px;
+    height: 165.87px;
+    left: -130px;
+    top: 449px;
+
+    background: url(BOAT.png);
+    mix-blend-mode: normal;
+
+
+    /* beHurban_LogoSentencebackground */
+
+    position: absolute;
+    width: 800px;
+    height: 804.14px;
+    left: -359px;
+    top: -270px;
+
+    background: url(beHurban_LogoSentencebackground.png);
+    filter: blur(1px);
+
+
+    /* beHurban_banner */
+
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: -169.67px;
+    top: 168px;
+
+    background: url(beHurban_banner.png);
+    border: 1px solid #D2E0E0;
+    filter: blur(1px);
+    transform: rotate(35.29deg);
+
+
+    /* Component 1 */
+
+    position: absolute;
+    width: 380px;
+    height: 421.8px;
+    left: 0px;
+    top: 100px;
+
+
+    /* Vector 3 */
+
+    position: absolute;
+    left: 8.05%;
+    right: 34.07%;
+    top: 58.8%;
+    bottom: 6.23%;
+
+    background: #E8F7F8;
+    border: 3px solid #000000;
+    box-shadow: 1px 5px 3px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(5.29deg);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 34.7%;
+    right: 50.22%;
+    top: 75.06%;
+    bottom: 10.81%;
+
+    background: url(zen.png);
+    transform: matrix(0.99, 0.11, -0.11, 0.99, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 14.23%;
+    right: 70.35%;
+    top: 61.98%;
+    bottom: 22.92%;
+
+    background: url(water.png);
+    box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: matrix(0.99, 0.11, -0.11, 0.99, 0, 0);
+
+
+    /* Line 1 */
+
+    position: absolute;
+    left: 9.05%;
+    right: 33.01%;
+    top: 29.32%;
+    bottom: 54.19%;
+
+    box-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: matrix(0.89, 0.38, -0.48, 0.92, 0, 0);
+
+
+    /* 1200 */
+
+    position: absolute;
+    left: 6.98%;
+    right: 81.45%;
+    top: 25.75%;
+    bottom: 71.88%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1500 */
+
+    position: absolute;
+    left: 6.69%;
+    right: 85.41%;
+    top: 41.87%;
+    bottom: 54.81%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1700 */
+
+    position: absolute;
+    left: 20.25%;
+    right: 70.8%;
+    top: 53.4%;
+    bottom: 43.76%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1800 */
+
+    position: absolute;
+    left: 42.87%;
+    right: 47.92%;
+    top: 54.02%;
+    bottom: 42.66%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 2000 */
+
+    position: absolute;
+    left: 60.27%;
+    right: 28.68%;
+    top: 45.72%;
+    bottom: 51.19%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 8.67%;
+    right: 88.3%;
+    top: 39.44%;
+    bottom: 57.75%;
+
+    background: url(zen.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 5.36%;
+    right: 91.73%;
+    top: 39.34%;
+    bottom: 57.35%;
+
+    background: url(water.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* Vector 2 */
+
+    position: absolute;
+    left: 15.75%;
+    right: 21.02%;
+    top: 8.16%;
+    bottom: 51.2%;
+
+    background: #C4C4C4;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(-7.49deg);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 76.63%;
+    right: 20.43%;
+    top: 37.92%;
+    bottom: 59.99%;
+
+    background: url(zen.png);
+    transform: matrix(0.99, -0.22, 0.16, 0.98, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 73.14%;
+    right: 23.86%;
+    top: 38.43%;
+    bottom: 59.33%;
+
+    background: url(water.png);
+    transform: matrix(0.99, -0.22, 0.16, 0.98, 0, 0);
+
+
+    /* beHurban_LogoSentencebackground-transparent */
+
+    position: absolute;
+    left: 16.01%;
+    right: 21.17%;
+    top: 8.51%;
+    bottom: 51.8%;
+
+    background: url(image.png);
+    filter: blur(1px);
+    transform: rotate(-7.49deg);
+
+
+    /* doubt 1 */
+
+    position: absolute;
+    left: 2.63%;
+    right: 79.72%;
+    top: -11.62%;
+    bottom: 95.74%;
+
+    background: url(doubt.png);
+    filter: blur(1px);
+
+
+    /* BACKGROUND-DAY 1 */
+
+    position: absolute;
+    width: 568px;
+    height: 320px;
+    left: 0px;
+    top: 468px;
+
+    background: url(BACKGROUND-DAY.png);
+    mix-blend-mode: difference;
+    transform: rotate(-90deg);
+
+
+    /* Screenshot 2020-01-10 at 15.25 1 */
+
+    position: absolute;
+    left: 18.65%;
+    right: 22.46%;
+    top: 12.77%;
+    bottom: 56.32%;
+
+    background: url(Screenshot 2020-01-10 at 15.25.png);
+    border: 3px solid #DEDEDE;
+    filter: blur(1px);
+    transform: rotate(-7.38deg);
+
+
+    /* beHurban_LogoSentence-transparent */
+
+    position: absolute;
+    left: 49.06%;
+    right: 1.56%;
+    top: -1.23%;
+    bottom: 80.11%;
+
+    background: url(beHurban_LogoSentence-transparent.png);
+    mix-blend-mode: color-burn;
+    filter: blur(1px);
+
+
+    /* Homepage (2) */
+
+    position: absolute;
+    width: 320px;
+    height: 568px;
+
+    background: #FFFFFF;
+
+
+    /* BOAT */
+
+    position: absolute;
+    width: 300px;
+    height: 165.87px;
+    left: -130px;
+    top: 449px;
+
+    background: url(BOAT.png);
+    mix-blend-mode: normal;
+
+
+    /* beHurban_LogoSentencebackground */
+
+    position: absolute;
+    width: 800px;
+    height: 804.14px;
+    left: -359px;
+    top: -270px;
+
+    background: url(beHurban_LogoSentencebackground.png);
+    filter: blur(1px);
+
+
+    /* beHurban_banner */
+
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: -169.67px;
+    top: 168px;
+
+    background: url(beHurban_banner.png);
+    border: 1px solid #D2E0E0;
+    filter: blur(1px);
+    transform: rotate(35.29deg);
+
+
+    /* Component 1 */
+
+    position: absolute;
+    width: 380px;
+    height: 421.8px;
+    left: 0px;
+    top: 100px;
+
+
+    /* Vector 3 */
+
+    position: absolute;
+    left: 8.05%;
+    right: 34.07%;
+    top: 58.8%;
+    bottom: 6.23%;
+
+    background: #E8F7F8;
+    border: 3px solid #000000;
+    box-shadow: 1px 5px 3px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(5.29deg);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 34.7%;
+    right: 50.22%;
+    top: 75.06%;
+    bottom: 10.81%;
+
+    background: url(zen.png);
+    box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: matrix(0.99, 0.11, -0.11, 0.99, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 14.23%;
+    right: 70.35%;
+    top: 61.98%;
+    bottom: 22.92%;
+
+    background: url(water.png);
+    transform: matrix(0.99, 0.11, -0.11, 0.99, 0, 0);
+
+
+    /* Line 1 */
+
+    position: absolute;
+    left: 9.05%;
+    right: 33.01%;
+    top: 29.32%;
+    bottom: 54.19%;
+
+    box-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: matrix(0.89, 0.38, -0.48, 0.92, 0, 0);
+
+
+    /* 1200 */
+
+    position: absolute;
+    left: 6.98%;
+    right: 81.45%;
+    top: 25.75%;
+    bottom: 71.88%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1500 */
+
+    position: absolute;
+    left: 6.69%;
+    right: 85.41%;
+    top: 41.87%;
+    bottom: 54.81%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1700 */
+
+    position: absolute;
+    left: 20.25%;
+    right: 70.8%;
+    top: 53.4%;
+    bottom: 43.76%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 1800 */
+
+    position: absolute;
+    left: 42.87%;
+    right: 47.92%;
+    top: 54.02%;
+    bottom: 42.66%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* 2000 */
+
+    position: absolute;
+    left: 60.27%;
+    right: 28.68%;
+    top: 45.72%;
+    bottom: 51.19%;
+
+    font-family: Metamorphous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+
+    color: #000000;
+
+    text-shadow: 2px 6px 4px rgba(0, 0, 0, 0.64);
+    filter: blur(1px);
+    transform: rotate(1.75deg);
+
+
+    /* zen */
+
+    position: absolute;
+    visibility: hidden;
+    left: 8.67%;
+    right: 88.3%;
+    top: 39.44%;
+    bottom: 57.75%;
+
+    background: url(zen.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    visibility: hidden;
+    left: 5.36%;
+    right: 91.64%;
+    top: 39.88%;
+    bottom: 57.88%;
+
+    background: url(water.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* Vector 2 */
+
+    position: absolute;
+    left: 15.75%;
+    right: 21.02%;
+    top: 8.16%;
+    bottom: 51.2%;
+
+    background: #C4C4C4;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(-7.49deg);
+
+
+    /* zen */
+
+    position: absolute;
+    visibility: hidden;
+    left: 76.63%;
+    right: 20.43%;
+    top: 37.92%;
+    bottom: 59.99%;
+
+    background: url(zen.png);
+    transform: matrix(0.99, -0.22, 0.16, 0.98, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 73.14%;
+    right: 23.86%;
+    top: 38.43%;
+    bottom: 59.33%;
+
+    background: url(water.png);
+    transform: matrix(0.99, -0.22, 0.16, 0.98, 0, 0);
+
+
+    /* beHurban_LogoSentencebackground-transparent */
+
+    position: absolute;
+    left: 16.01%;
+    right: 21.17%;
+    top: 8.51%;
+    bottom: 51.8%;
+
+    background: url(image.png);
+    filter: blur(1px);
+    transform: rotate(-7.49deg);
+
+
+    /* doubt 1 */
+
+    position: absolute;
+    left: 2.63%;
+    right: 79.72%;
+    top: -11.62%;
+    bottom: 95.74%;
+
+    background: url(doubt.png);
+    filter: blur(1px);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 46.96%;
+    right: 50.1%;
+    top: 57.42%;
+    bottom: 39.87%;
+
+    background: url(zen.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* water */
+
+    position: absolute;
+    left: 43.78%;
+    right: 53.21%;
+    top: 58.03%;
+    bottom: 39.73%;
+
+    background: url(water.png);
+    transform: matrix(1, -0.02, -0.04, 1, 0, 0);
+
+
+    /* zen */
+
+    position: absolute;
+    left: 76.46%;
+    right: 20.61%;
+    top: 37.35%;
+    bottom: 59.86%;
+
+    background: url(zen.png);
+    transform: matrix(0.99, -0.22, 0.16, 0.98, 0, 0);
+
+
+    /* BACKGROUND-DAY 1 */
+
+    position: absolute;
+    width: 568px;
+    height: 320px;
+    left: 0px;
+    top: 468px;
+
+    background: url(BACKGROUND-DAY.png);
+    mix-blend-mode: difference;
+    transform: rotate(-90deg);
+
+
+    /* Screenshot 2020-01-10 at 15.25 1 */
+
+    position: absolute;
+    left: 18.65%;
+    right: 22.46%;
+    top: 12.77%;
+    bottom: 56.32%;
+
+    background: url(Screenshot 2020-01-10 at 15.30.png), url(Screenshot 2020-01-10 at 15.25.png);
+    border: 3px solid #DEDEDE;
+    filter: blur(1px);
+    transform: rotate(-7.38deg);
+
+
+    /* beHurban_LogoSentence-transparent */
+
+    position: absolute;
+    left: 49.06%;
+    right: 1.56%;
+    top: -1.23%;
+    bottom: 80.11%;
+
+    background: url(beHurban_LogoSentence-transparent.png);
+    mix-blend-mode: color-burn;
+    filter: blur(1px);
+
+
+    /* Page - A propos (screen 1) */
+
+    position: absolute;
+    width: 320px;
+    height: 568px;
+
+    background: #FFFFFF;
+
+
+    /* WOMAN */
+
+    position: absolute;
+    width: 150px;
+    height: 82.93px;
+    left: 185.76px;
+    top: 3px;
+
+    background: url(WOMAN.png);
+    transform: rotate(22.19deg);
+
+
+    /* beHurban_LogoSentencebackground */
+
+    position: absolute;
+    width: 800px;
+    height: 804.14px;
+    left: -359px;
+    top: -270px;
+
+    background: url(beHurban_LogoSentencebackground.png);
+    filter: blur(1px);
+
+
+    /* logo_ville_18 1 */
+
+    position: absolute;
+    width: 64px;
+    height: 32.27px;
+    left: 9px;
+    top: 80px;
+
+    background: url(logo_ville_18.png);
+    filter: blur(1px);
+
+
+    /* BACKGROUND-DAY 1 */
+
+    position: absolute;
+    width: 568px;
+    height: 320px;
+    left: 0px;
+    top: 568px;
+
+    background: url(BACKGROUND-DAY.png);
+    mix-blend-mode: difference;
+    transform: rotate(-90deg);
+
+
+    /* twitter-black-shape */
+
+    position: absolute;
+    left: 55.62%;
+    right: 34.38%;
+    top: 83.1%;
+    bottom: 11.27%;
+
+    background: url(twitter-black-shape.png);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+
+
+    /* instagram(1) 1 */
+
+    position: absolute;
+    left: 38.44%;
+    right: 51.56%;
+    top: 83.1%;
+    bottom: 11.27%;
+
+    background: url(instagram(1) . png);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+
+
+    /* Vector 2 */
+
+    position: absolute;
+    left: 1.88%;
+    right: -30.31%;
+    top: 92.66%;
+    bottom: -47.14%;
+
+    background: #16AEB7;
+    mix-blend-mode: multiply;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: matrix(0, -1, 1, -0.01, 0, 0);
+
+
+    /* Let’s travel in the old Brussels! We know well the actual Brussels. But how was the city in the 13th century or the 18th century? We propose you to explore Brussels through the centuries and through two elements: water for the Senne and stone for the architecture. So choose your century, push the buttons and see what happens. */
+
+    position: absolute;
+    left: 11.88%;
+    right: 11.88%;
+    top: 25.18%;
+    bottom: 19.89%;
+
+    font-family: Minion Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    letter-spacing: -0.025em;
+
+    text-shadow: 2px 6px 5px rgba(0, 0, 0, 0.6);
+    filter: blur(0.7px);
+
+
+    /* beHurban_LogoSentencebackground-transparent */
+
+    position: absolute;
+    left: 1.88%;
+    right: -30.94%;
+    top: 92.61%;
+    bottom: -47.01%;
+
+    background: url(image.png);
+    filter: blur(1px);
+    transform: rotate(-90deg);
+
+
+    /* beHurban_LogoSentence-transparent */
+
+    position: absolute;
+    left: 49.06%;
+    right: 1.56%;
+    top: -1.23%;
+    bottom: 80.11%;
+
+    background: url(beHurban_LogoSentence-transparent.png);
+    mix-blend-mode: color-burn;
+    filter: blur(1px);
+
+
+    /* MANNEKEN PIS */
+
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 250.11px;
+    top: 447.26px;
+
+    background: url(MANNEKEN PIS.png);
+    mix-blend-mode: multiply;
+    transform: rotate(-10.95deg);
+
+
+    /* anspach-head */
+
+    position: absolute;
+    width: 48px;
+    height: 50.64px;
+    left: 53.32px;
+    top: 452.28px;
+
+    background: url(anspach-head.png);
+    mix-blend-mode: multiply;
+    transform: rotate(59.86deg);
+
+
+    /* Page - A propos (screen 2) */
+
+    position: absolute;
+    width: 320px;
+    height: 568px;
+
+    background: #FFFFFF;
+
+
+    /* beHurban_LogoSentencebackground */
+
+    position: absolute;
+    width: 800px;
+    height: 193.14px;
+    left: -42px;
+    top: 402px;
+
+    background: url(beHurban_LogoSentencebackground.png);
+    mix-blend-mode: multiply;
+    filter: blur(1px);
+
+
+    /* beHurban_banner */
+
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: -169.67px;
+    top: 168px;
+
+    background: url(beHurban_banner.png);
+    mix-blend-mode: multiply;
+    border: 1px solid #D2E0E0;
+    filter: blur(1px);
+    transform: rotate(35.29deg);
+
+
+    /* Vector 2 */
+
+    position: absolute;
+    left: 4.38%;
+    right: 5.29%;
+    top: 2.82%;
+    bottom: 58.87%;
+
+    background: #C2C2C2;
+    mix-blend-mode: multiply;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: matrix(1, 0, 0.01, 1, 0, 0);
+
+
+    /* beHurban_LogoSentencebackground-transparent */
+
+    position: absolute;
+    left: 2.81%;
+    right: 4.69%;
+    top: 2.82%;
+    bottom: 58.8%;
+
+    background: url(image.png);
+    filter: blur(1px);
+
+
+    /* pdf 2 */
+
+    position: absolute;
+    width: 120px;
+    height: 139.52px;
+    left: 88.55px;
+    top: 295.9px;
+
+    background: rgba(22, 174, 183, 0.8);
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(6.86deg);
+
+
+    /* pdf 1 */
+
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 87.33px;
+    top: 306px;
+
+    background: url(pdf.png);
+    mix-blend-mode: normal;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.25);
+    filter: blur(1px);
+    transform: rotate(6.86deg);
+
+
+    /* doubt 1 */
+
+    position: absolute;
+    left: 90.75%;
+    right: -14.83%;
+    top: 46.02%;
+    bottom: 40.42%;
+
+    background: url(doubt.png);
+    filter: blur(1px);
+    transform: matrix(-0.93, -0.36, -0.36, 0.93, 0, 0);
+
+
+    /* BACKGROUND-DAY 1 */
+
+    position: absolute;
+    width: 568px;
+    height: 320px;
+    left: 0px;
+    top: 568px;
+
+    background: url(BACKGROUND-DAY.png);
+    mix-blend-mode: difference;
+    transform: rotate(-90deg);
+
+
+    /* Screenshot 2020-01-13 at 14.44 1 */
+
+    position: absolute;
+    left: 2.81%;
+    right: 2.5%;
+    top: 7.39%;
+    bottom: 63.24%;
+
+    background: url(Screenshot 2020-01-13 at 14.44.png);
+
+
+    /* youtube(1) 1 */
+
+    position: absolute;
+    left: 39.69%;
+    right: 40.31%;
+    top: 16.37%;
+    bottom: 72.36%;
+
+    background: url(youtube(1) . png);
+    mix-blend-mode: normal;
+
+
+    /* BIRD2 */
+
+    position: absolute;
+    width: 300px;
+    height: 165.87px;
+    left: -78px;
+    top: 175px;
+
+    background: url(BIRD2.png);
+    mix-blend-mode: multiply;
+
+
+    /* BIRD3 */
+
+    position: absolute;
+    width: 300px;
+    height: 165.87px;
+    left: 435.85px;
+    top: 383.04px;
+
+    background: url(BIRD3.png);
+    mix-blend-mode: color-burn;
+    transform: matrix(-0.99, -0.17, -0.17, 0.99, 0, 0);
+}
